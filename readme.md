@@ -17,3 +17,50 @@ Pada saat perombakan, kami juga menambahkan fitur-fitur baru yang sesuai dengan 
 
 # Rencana Masa Depan
 dari pribadi saya, ini hanya projek gabut
+
+# Proses Develop
+
+## Teknologi yang digunakan
+
+## Skema RDBMS
+
+## Fitur yang akan Dibuat
+
+
+
+
+
+
+
+
+
+
+
+# Pesan dan Kesan
+Terima kasih Synrgy Academy dan BCA Group atas pengalaman luar biasa dalam Bootcamp Full Stack Developer ini! 🚀
+
+## Terima kasih untuk:
+
+Wawasan Mendalam: Terima kasih telah menyajikan materi yang mendalam dan relevan, membuka pintu dunia pengembangan perangkat lunak dari sudut pandang yang baru.
+
+## Tim Instruktur yang Luar Biasa: 
+
+Kepada para instruktur, terima kasih atas dedikasi, pemahaman yang mendalam, dan kemampuan untuk menyampaikan materi dengan cara yang membuatnya mudah dipahami.
+
+## Proyek Praktis: 
+
+Bootcamp ini tidak hanya memberikan pemahaman teoritis, tetapi juga memberikan kesempatan untuk menerapkan pengetahuan tersebut melalui proyek-praktis. Ini memberikan wawasan nyata ke dalam dunia pengembangan perangkat lunak.
+
+## Dukungan dan Kolaborasi: 
+
+Terima kasih atas atmosfer yang mendukung dan kolaboratif. Ini memberikan peluang untuk belajar tidak hanya dari instruktur tetapi juga dari sesama peserta.
+
+## Kesempatan Karier: 
+
+Bootcamp ini membuka pintu bagi kami untuk memasuki dunia kerja sebagai Full Stack Developer. Terima kasih atas kesempatan ini yang sangat berharga, bismillah bisa masuk bca awkwkwkwkwk.
+
+## Pesan Motivasi: 
+
+Terima kasih atas pesan-pesan motivasi dan semangat untuk terus berkembang di dunia teknologi. Ini benar-benar menginspirasi saya untuk terus belajar dan berkembang.
+
+Semua pengalaman ini tak ternilai harganya, dan kami merasa beruntung menjadi bagian dari Bootcamp Full Stack Developer ini. Terima kasih Synrgy Academy dan BCA Group atas dedikasi dan komitmen Anda untuk mendukung kami dalam perjalanan pengembangan karier ini. Saya siap untuk menghadapi tantangan berikutnya dan melangkah maju dengan keyakinan yang baru ditemukan! 🌟👩‍💻👨‍💻
